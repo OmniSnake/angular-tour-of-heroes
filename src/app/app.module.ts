@@ -11,7 +11,8 @@ import { FormsModule } from '@angular/forms';
 		HeroesComponent
 	],
 	imports: [
-		BrowserModule, FormsModule
+		BrowserModule,
+		FormsModule
 	],
 	providers: [],
 	bootstrap: [AppComponent]
